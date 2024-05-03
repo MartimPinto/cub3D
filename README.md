@@ -18,7 +18,7 @@ Cub3D is an implementation of raycasting to render a 2D map in 3D. Raycasting is
 the program is executed as so:
 
 ```shell
-./Cub3D assets/maps/valid/<map.cub>
+./cub3D assets/maps/valid/<map.cub>
 ```
 
 You will find maps and textures in the assets directory. feel free to customize maps or add you own textures. The program will open a window and display the controls on your terminal. the player is moved with the W,A,S,D key and point the camera is rotated with the left and right arrows as well as with mouse movements in the bonus part. The bonus also adds the minimap feature which can be accessed by pressing enter.
