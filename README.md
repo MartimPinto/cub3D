@@ -11,7 +11,7 @@
 
 
 ## About
-Cub3D is an implementation of raycasting to render a 2D map in 3D. Raycasting is a rendering technique used to create a 3D perspective in a 2D map.
+Cub3D is an implementation of raycasting to render a 2D map in 3D. Raycasting is a rendering technique used to create a 3D perspective in a 2D map. This was a group project done with [Axel-ex](https://github.com/Axel-ex).
 
 ## Usage
 `git clone` this project `cd` into it. If your OS is macOS, simply `make`. if your running on linux, `make re OS=linux`.
